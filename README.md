@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Olá, eu sou Cristiano Reche!  
+🎨 **Product Designer** | 💻 **Full Stack Developer** | 🌾 **Agrônomo apaixonado por programação**
 
-<!--
-**cristianoreche/cristianoreche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Combinando minha formação em agronomia com minha paixão por tecnologia, estou focado em desenvolver soluções digitais inovadoras para o setor agrícola. Acredito que a tecnologia é uma ferramenta poderosa para impulsionar a eficiência e a sustentabilidade no agronegócio.
 
-Here are some ideas to get you started:
+## 🔹 Habilidades Principais:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Design**: UX/UI Design, Prototipagem, Design de Produtos Digitais  
+- **Desenvolvimento**: Angular, JavaScript, PHP, MySQL, MariaDB, HTML, CSS, Node.js  
+- **Agronomia**: Integração de tecnologia no campo, análise de dados agrícolas, otimização de processos  
+
+## 🌍 Portfólio:  
+[cristianoreche.com](https://cristianoreche.com)
+
+## 💡 Minha abordagem:  
+Transformo desafios do campo em soluções digitais práticas e escaláveis, unindo criatividade, técnica e uma profunda compreensão das necessidades agrícolas.
+
+## 📫 Conecte-se comigo:  
+Explore meus projetos e entre em contato para compartilhar ideias ou colaborar!
