@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou Cristiano Reche!  
 🎨 **Product Designer** | 💻 **Full Stack Developer** | 🌾 **Agrônomo apaixonado por programação**
 
-Combinando minha formação em agronomia com minha paixão por tecnologia, estou focado em desenvolver soluções digitais inovadoras para o setor agrícola. Acredito que a tecnologia é uma ferramenta poderosa para impulsionar a eficiência e a sustentabilidade no agronegócio.
+Combinando minha formação em Agronomia e Análise de Sistemas com minha paixão por tecnologia, estou focado em desenvolver soluções digitais inovadoras para o setor agrícola. Acredito que a tecnologia é uma ferramenta poderosa para impulsionar a eficiência e a sustentabilidade no agronegócio.
 
 ## 🔹 Habilidades Principais:
 
